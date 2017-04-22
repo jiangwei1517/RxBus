@@ -1,0 +1,10 @@
+apply plugin: 'java'
+
+dependencies {
+    compile deps.auto_service
+    compile project(':rxbus-annotation')
+    compile deps.javapoet
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

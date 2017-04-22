@@ -1,0 +1,1 @@
+include ':app', ':rxbus-compiler', ':rxbus-annotation', ':rxbus-api'
