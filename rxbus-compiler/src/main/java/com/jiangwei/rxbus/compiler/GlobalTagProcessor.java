@@ -12,7 +12,7 @@ import com.jiangwei.rxbus.annotation.GlobalTag;
 import com.jiangwei.rxbus.annotation.GlobalTagsAnnotation;
 
 /**
- * author: jiangwei18 on 17/4/18 11:24 email: jiangwei18@baidu.com Hi: jwill金牛
+ * author: jiangwei18 on 17/4/18 11:24
  */
 @AutoService(Processor.class)
 public class GlobalTagProcessor extends TagProcessor {

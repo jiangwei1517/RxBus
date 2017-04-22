@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * author: jiangwei18 on 17/4/18 10:54 email: jiangwei18@baidu.com Hi: jwill金牛
+ * author: jiangwei18 on 17/4/18 10:54
  */
 @Target(ElementType.ANNOTATION_TYPE)
 @Retention(RetentionPolicy.CLASS)

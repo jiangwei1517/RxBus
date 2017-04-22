@@ -1,8 +1,5 @@
 package com.jiangwei.rxbus.api;
 
-//import android.support.annotation.NonNull;
-//import android.support.annotation.Nullable;
-
 import com.jiangwei.rxbus.annotation.LocalTag;
 
 import rx.Scheduler;
@@ -13,7 +10,7 @@ import rx.functions.Func1;
 /**
  * 重新继承以使全局RxBus与其他RxBus有明显区别
  *
- * Created by juyanwen on 2016/5/18.
+ * Created by jiangwei18 on 2016/5/18.
  */
 public class GlobalRxBus extends RxBus {
 

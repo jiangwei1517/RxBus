@@ -19,7 +19,7 @@ import rx.subjects.SerializedSubject;
 import rx.subjects.Subject;
 
 /**
- * Created by juyanwen on 2016/5/18.
+ * Created by jiangwei18 on 2016/5/18.
  */
 public class RxBus {
 

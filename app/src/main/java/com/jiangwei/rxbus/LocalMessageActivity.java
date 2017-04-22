@@ -1,8 +1,6 @@
 package com.jiangwei.rxbus;
 
-import com.jiangwei.rxbus.api.GlobalRxBus;
 import com.jiangwei.rxbus.api.RxBus;
-import com.rxbus.GlobalMessage;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -12,8 +10,6 @@ import android.widget.Toast;
 
 import rx.functions.Action1;
 import rx.functions.Func1;
-
-import static android.icu.lang.UCharacter.GraphemeClusterBreak.T;
 
 public class LocalMessageActivity extends AppCompatActivity {
     private Button btn;

@@ -3,7 +3,7 @@ package com.jiangwei.rxbus;
 import com.jiangwei.rxbus.annotation.GlobalTagsAnnotation;
 
 /**
- * Created by Ju Yanwen on 2016/12/12.
+ * Created by jiangwei18
  */
 @GlobalTagsAnnotation(
         packageName = "com.rxbus",
